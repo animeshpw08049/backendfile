@@ -1,7 +1,6 @@
 {
   "name": "backends",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,5 +15,15 @@
     "jsonwebtoken": "^9.0.0",
     "mongoose": "^6.9.0",
     "router": "^1.3.7"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/animeshpw08049/backendfile.git"
+  },
+  "bugs": {
+    "url": "https://github.com/animeshpw08049/backendfile/issues"
+  },
+  "homepage": "https://github.com/animeshpw08049/backendfile#readme",
+  "description": ""
 }
